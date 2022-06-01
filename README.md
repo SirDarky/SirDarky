@@ -3,8 +3,7 @@
 - 🔭 Estou trabalhando como freelancer.
 - 🌱 Estudando Javascript, React.js e ReactNative.
 - 📫 Contate-me via e-mail: marcus.profissional12@gmail.com
-- <a href="https://www.linkedin.com/in/marcus-vinicius-ara%C3%BAjo-silva-846961207/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-- <a href="https://www.instagram.com/dkmvas/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
+- <a href="https://www.linkedin.com/in/marcus-vinicius-ara%C3%BAjo-silva-846961207/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> <a href="https://www.instagram.com/dkmvas/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
 <br>
 
 ### Linguagens e Ferramentas:

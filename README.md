@@ -1,4 +1,4 @@
-### Olá, sou Marcus Vinicius 👋
+### Olá, sou Marcus Vinicius 
 
 - 🔭 Estou trabalhando como freelancer.
 - 🌱 Estudando Javascript, React.js e ReactNative.

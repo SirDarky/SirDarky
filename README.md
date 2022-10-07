@@ -2,6 +2,7 @@
 
 - 🔭 Estou trabalhando como freelancer.
 - 🌱 Estudando Desenvolvimento Mobile | Desenvolvimento WEB
+- Trabalhando atualmente no Corpo de Bombeiro Militar do Estado do Amazonas, cargo Estágio em Desenvolvimento FullStack
 - 📫 Contate-me via e-mail: marcus.profissional12@gmail.com
 - <a href="https://www.linkedin.com/in/marcus-vinicius-ara%C3%BAjo-silva-846961207/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> <a href="https://www.instagram.com/dkmvas/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
 <br>

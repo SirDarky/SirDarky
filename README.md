@@ -27,18 +27,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-          
-          
-
-<br>
-
----
-<div align="center">
-  <a href="https://github.com/SirDarky">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SirDarky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDarky&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 __________________________________________________________________________________________________________________________
 

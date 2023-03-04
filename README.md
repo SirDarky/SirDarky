@@ -28,7 +28,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <br>
-__________________________________________________________________________________________________________________________
+
+---
 
 
 ### Hello, I'm Marcus Vinicius.

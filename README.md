@@ -1,7 +1,7 @@
 ### Olá, sou Marcus Vinicius 
 
-- 🔭 Estou trabalhando na empresa YourCount como Desenvolvedor de Software Junior.
-- 🌱 Estudando Desenvolvimento Mobile | Desenvolvimento WEB
+- 🔭 Estou trabalhando na empresa Bemol Digital como Engenheiro de Software I.
+- 🌱 Estudando Desenvolvimento Mobile | Aprimorando meus conhecimentos em Engenharia de Software
 - 📫 Contate-me via e-mail: marcus.profissional12@gmail.com
 - <a href="https://www.linkedin.com/in/marcus-vinicius-ara%C3%BAjo-silva-846961207/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> <a href="https://www.instagram.com/dkmvas/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
 <br>
@@ -11,8 +11,8 @@
 
 ### Hello, I'm Marcus Vinicius.
 
-- 🔭 I'm a Junior Software Developer for YourCount.
-- 🌱 Studying Mobile Development | WEB Development
+- 🔭 I am working at Bemol Digital as a Software Engineer I.
+- 🌱 Studying Mobile Development | Improving my knowledge in Software Engineering
 - 📫 Contact me via e-mail: marcus.profissional12@gmail.com
 - <a href="https://www.linkedin.com/in/marcus-vinicius-ara%C3%BAjo-silva-846961207/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> <a href="https://www.instagram.com/dkmvas/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
 <br>

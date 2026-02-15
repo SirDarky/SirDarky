@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcus Vinicius 👋
 
-Sou **Engenheiro de Software (Pleno)** em Manaus, com foco em arquitetura de sistemas distribuídos e soluções escaláveis. Atualmente, atuo no **CESAR**, projetando microsserviços e fluxos de automação inteligente.
+Sou **Engenheiro de Software** em Manaus, com foco em arquitetura de sistemas distribuídos e soluções escaláveis. Atualmente, atuo no **CESAR**, projetando microsserviços e fluxos de automação inteligente.
 
 ---
 

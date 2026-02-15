@@ -1,24 +1,24 @@
-# [cite_start]Olá, eu sou o Marcus Vinicius 👋 [cite: 1]
+# Olá, eu sou o Marcus Vinicius 👋
 
-[cite_start]Sou um **Software Engineer (Pleno)** baseado em Manaus, focado na construção de arquiteturas de sistemas distribuídos e soluções escaláveis[cite: 2, 3]. [cite_start]Atualmente, faço parte do time do **CESAR**, onde projeto microsserviços e automações inteligentes[cite: 20, 21].
+Sou **Engenheiro de Software (Pleno)** em Manaus, com foco em arquitetura de sistemas distribuídos e soluções escaláveis. Atualmente, atuo no **CESAR**, projetando microsserviços e fluxos de automação inteligente.
 
 ---
 
-### 💻 No que eu foco:
+### 🛠️ No que eu foco:
 
-* [cite_start]**Backend & Arquitetura:** Especialista em **Node.js (NestJS/Express)** e **Python (FastAPI)**[cite: 4, 9].
-* [cite_start]**Automação & IA:** Experiência avançada em fluxos com **n8n** e integração de **LLMs** (OpenAI/Anthropic)[cite: 5, 13, 14].
-* [cite_start]**Fullstack & Cloud:** Vivência com **ReactJS**, **Angular** e infraestrutura em **Docker** e **AWS**[cite: 6, 12, 15].
-* [cite_start]**Dados:** Pós-graduado em **Big Data e Engenharia de Dados**[cite: 39].
+* **Backend & Arquitetura:** Especialista em **Node.js (NestJS/Express)**, **Python (FastAPI)** e **PHP (Laravel)**.
+* **Automação & IA:** Especialista em **n8n** e integração com **LLMs** (OpenAI/Anthropic) para otimização de processos.
+* **Ecossistema Moderno:** Experiência avançada com **ReactJS**, **Angular**, **Docker** e **AWS (EC2, S3, Lambda)**.
+* **Dados:** Pós-graduado em **Big Data e Engenharia de Dados**.
 
 ### 🎮 Além do código:
 
-Quando não estou desenvolvendo sistemas críticos ou desenhando fluxos de dados, gosto de aproveitar meu tempo livre com **jogos**. Manter esse hobby me ajuda a explorar novas perspectivas e manter a criatividade em alta.
+Quando não estou desenhando arquiteturas ou automatizando processos, gosto de aproveitar meu tempo livre com **jogos**. Sou entusiasta do universo gamer, o que me ajuda a manter o raciocínio lógico afiado e a criatividade em dia.
 
-### 📫 Vamos conectar?
+### 📫 Vamos conversar?
 
-* [cite_start]📍 Manaus, Amazonas, Brasil [cite: 2]
-* [cite_start]📧 [marcus.profissional12@gmail.com](mailto:marcus.profissional12@gmail.com) [cite: 2]
+* 📍 Manaus, Amazonas, Brasil
+* 📧 [marcus.profissional12@gmail.com](mailto:marcus.profissional12@gmail.com)
 
 ---
-[cite_start]*Focado em entregar soluções robustas sob metodologias ágeis[cite: 7].*
+*Focado em entregar soluções robustas e escaláveis sob metodologias ágeis.*
